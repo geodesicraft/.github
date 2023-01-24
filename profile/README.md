@@ -4,7 +4,7 @@
 A tool to visualize domes and change their geometry.
 
 > **Note**
-> This project is currently in development.
+> This project is currently in development:
 >
 > [geodesicraft/geodesicraft.github.io](https://github.com/geodesicraft/geodesicraft.github.io)
 
