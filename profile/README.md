@@ -9,6 +9,6 @@ A tool to visualize domes and change their geometry.
 > [geodesicraft/geodesicraft.github.io](https://github.com/geodesicraft/geodesicraft.github.io)
 
 ## Plugin for Minecraft servers
-A plugin for Minecraft: Java Edition running on Spigot servers. This plugin integrates with FastAsyncWorldEdit and allow you to generate domes in-game by copy and pasting commands from the web interface.
+A plugin for Minecraft: Java Edition running on Spigot servers. This plugin integrates with FastAsyncWorldEdit and allows you to generate domes in-game by copy and pasting commands from the web interface.
 > **Note**
 > This project has not been created yet.
