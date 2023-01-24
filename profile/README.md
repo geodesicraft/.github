@@ -1,1 +1,7 @@
-Geodesicraft is a tool for creating geodesic domes. The development is starting with the web interface which will help visualize domes and change their geometry. A plugin for Minecraft: Java Edition running on Spigot servers will be developed next. This plugin will integrate with FastAsyncWorldEdit and allow you to generate domes in-game by copy and pasting commands which you generate in the web interface.
+Geodesicraft is a suite of tools for creating and understanding geodesic domes.
+
+## Web Interface
+A tool to visualize domes and change their geometry.
+
+## Plugin for Minecraft servers
+A plugin for Minecraft: Java Edition running on Spigot servers. This plugin integrates with FastAsyncWorldEdit and allow you to generate domes in-game by copy and pasting commands from the web interface.
