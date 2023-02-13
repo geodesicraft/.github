@@ -1,4 +1,4 @@
-**Geodesicraft** is a suite of tools for creating and understanding geodesic domes.
+**Geodesicraft** is a suite of tools for generating and understanding geodesic domes.
 
 ### Web Interface
 A tool to visualize domes and change their geometry.
