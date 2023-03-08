@@ -1,5 +1,3 @@
-Tools to create and understand geodesic domes
-
 ### Web Interface
 A tool to visualize domes and change their geometry.
 
